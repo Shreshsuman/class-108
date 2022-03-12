@@ -1,0 +1,35 @@
+#name{
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 5px 5px 5px gray;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    font-size: 18px;
+    background-color: rgb(245, 189, 189);;
+}
+body{
+    background-color: #f5dbda;
+}
+.header_div{
+    background-color:white;
+    color: rgb(61, 61, 251);
+    font-family: 'Open Sans', sans-serif;
+}
+.header_div p{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(255, 0, 64);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
